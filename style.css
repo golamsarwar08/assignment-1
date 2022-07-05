@@ -39,7 +39,10 @@ body {
     color: white;
     font-weight: 700;
     text-align: center;
-    margin-left: 42%;
+    margin-left: 43%;
+    position: relative;
+    top: 30px;
+
 }
 
 .header-2 {
@@ -69,9 +72,27 @@ body {
 }
 
 .amount-input {
+    color: rgb(230, 230, 230);
+    font-size: 18px;
+    text-align: center;
     border: none;
     background-color: transparent;
     outline: none;
     resize: none;
-    position: absolute;
+    margin-top: 5%;
+    margin-left: 23%;
+    border-bottom: 1px solid grey;
+    padding-left: 18%;
+    padding-right: 20%;
+}
+
+#header-3 {
+    color: black;
+    margin-left: 3%;
+}
+
+#paragraph-3 {
+    padding-left: 12%;
+    padding-right: 10%;
+    text-align: center;
 }
