@@ -1,0 +1,77 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.top-banner {
+    background-image: url(images/donation16.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    padding-top: 15%;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-shadow: 70px;
+}
+
+#paragraph {
+    font-size: 15px;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+    color: white;
+    text-shadow: 70px;
+}
+
+.donate {
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 20px;
+    background-image: linear-gradient(rgb(255, 121, 116), #ff1e1e);
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    margin-left: 42%;
+}
+
+.header-2 {
+    padding-top: 25%;
+    padding-left: 1%;
+    text-align: center;
+    font-size: 45px;
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.amount {
+    margin-left: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#box {
+    color: #ff5959;
+    background-color: #ffe1e1;
+    border: 2px solid rgb(255, 104, 104);
+    border-radius: 2px;
+}
+
+.amount-input {
+    border: none;
+    background-color: transparent;
+    outline: none;
+    resize: none;
+    position: absolute;
+}
