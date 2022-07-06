@@ -39,10 +39,15 @@ body {
     color: white;
     font-weight: 700;
     text-align: center;
-    margin-left: 41%;
+    margin-left: 43%;
     position: relative;
     top: 30px;
 
+}
+
+#scale {
+    margin-left: 40.5%;
+    margin-top: 50px;
 }
 
 .header-2 {
@@ -88,11 +93,11 @@ body {
 
 #header-3 {
     color: black;
-    margin-left: 3%;
+    margin-right: 1%;
 }
 
 #paragraph-3 {
-    padding-left: 12%;
+    padding-left: 10%;
     padding-right: 10%;
     text-align: center;
 }
@@ -162,20 +167,20 @@ h2 {
 }
 
 .form-background {
-    background-color: rgb(220, 255, 181);
+    background-color: rgb(220, 255, 190);
     margin-top: 3%;
     margin-left: 20%;
     margin-right: 20%;
     padding-top: 25px;
     margin-bottom: 10%;
-    ;
 }
 
 #email {
     background-color: rgb(255, 253, 253);
     border: 0;
-    margin-left: 14%;
+    margin-left: 23%;
     line-height: 2.3;
+    padding-left: 2%;
     outline: none;
 }
 
@@ -187,8 +192,8 @@ h2 {
     font-weight: 700;
     text-align: right;
     position: relative;
-    left: 350px;
-    bottom: 90.5px;
+    left: 446px;
+    bottom: 107px;
     resize: none;
 }
 
