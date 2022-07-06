@@ -46,7 +46,7 @@ body {
 }
 
 #scale {
-    margin-left: 40.5%;
+    margin-left: 43.5%;
     margin-top: 50px;
 }
 
@@ -85,7 +85,7 @@ body {
     outline: none;
     resize: none;
     margin-top: 5%;
-    margin-left: 19%;
+    margin-left: 21.5%;
     border-bottom: 1px solid grey;
     padding-left: 20%;
     padding-right: 20%;
@@ -138,9 +138,13 @@ h2 {
     background-position: 20px 20px;
 }
 
+#box-scale {
+    margin-left: 10%;
+    margin-right: 10%
+}
+
 .donation-section {
     margin-left: 10%;
-    margin-right: 10%;
 }
 
 .donation-paragraph {
