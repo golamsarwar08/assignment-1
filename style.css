@@ -39,7 +39,7 @@ body {
     color: white;
     font-weight: 700;
     text-align: center;
-    margin-left: 43%;
+    margin-left: 41%;
     position: relative;
     top: 30px;
 
@@ -80,9 +80,9 @@ body {
     outline: none;
     resize: none;
     margin-top: 5%;
-    margin-left: 23%;
+    margin-left: 19%;
     border-bottom: 1px solid grey;
-    padding-left: 18%;
+    padding-left: 20%;
     padding-right: 20%;
 }
 
@@ -141,4 +141,65 @@ h2 {
 .donation-paragraph {
     position: relative;
     top: 40%;
+}
+
+.more-features {
+    width: 30%;
+    padding-left: 11%;
+    padding-top: 5%;
+}
+
+.join-now {
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 20px;
+    background-image: linear-gradient(rgb(255, 121, 116), #ff1e1e);
+    color: white;
+    font-weight: 700;
+    text-align: left;
+    position: relative;
+    top: 20px;
+}
+
+.form-background {
+    background-color: rgb(220, 255, 181);
+    margin-top: 3%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 25px;
+    margin-bottom: 10%;
+    ;
+}
+
+#email {
+    background-color: rgb(255, 253, 253);
+    border: 0;
+    margin-left: 14%;
+    line-height: 2.3;
+    outline: none;
+}
+
+.subscribe-button {
+    text-decoration: none;
+    padding: 7px 10px;
+    background-image: linear-gradient(rgb(255, 121, 116), #ff1e1e);
+    color: white;
+    font-weight: 700;
+    text-align: right;
+    position: relative;
+    left: 350px;
+    bottom: 90.5px;
+    resize: none;
+}
+
+.footer-style {
+    background-color: black;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.footer-text {
+    font-family: 'Lobster', cursive;
+    color: rgb(255, 149, 149);
 }
