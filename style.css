@@ -64,7 +64,7 @@ body {
     padding-bottom: 5%;
 }
 
-#box {
+#red-box {
     color: #ff5959;
     background-color: #ffe1e1;
     border: 2px solid rgb(255, 104, 104);
@@ -107,6 +107,11 @@ body {
     background-color: rgb(199, 255, 199);
 }
 
+h2 {
+    position: relative;
+    top: 40%;
+}
+
 #box1 {
     background-image: url(icons/food.png);
     background-color: rgb(199, 255, 199);
@@ -126,11 +131,6 @@ body {
     background-color: rgb(255, 229, 182);
     background-repeat: no-repeat;
     background-position: 20px 20px;
-}
-
-h2 {
-    position: relative;
-    top: 40%;
 }
 
 .donation-section {
